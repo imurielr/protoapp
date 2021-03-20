@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.29">
+<file name="/Users/isamuriel/protoapp/src/main/java/co/edu/eafit/protoapp/Calculadora.java">
+<error line="5" severity="warning" message="method def modifier en el nivel de sangrado 4 no está al nivel correcto, 2" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="6" severity="warning" message="method def el descendiente en el nivel de sangrado 8 no está al nivel correcto, 4" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="7" severity="warning" message="method def rcurly en el nivel de sangrado 4 no está al nivel correcto, 2" source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+</file>
+</checkstyle>
