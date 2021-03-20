@@ -6,7 +6,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Cálculo de Cuadrados</title>
     </head>
-    <body>
+    <body style="background-color: cadetblue;">
         <div>
             <h1>Cálculo de Cuadrados</h1>
             <form action="resultado.jsp">

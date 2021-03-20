@@ -12,7 +12,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Resultado</title>
     </head>
-    <body>
+    <body style="background-color: cadetblue;">
         <div>
             <h1>Resultado</h1>
             <p>El cuadrado de <%= numero%> es <%= cuadrado%></p>
